@@ -1,0 +1,7 @@
+{
+  "preset": {
+    "name": "base_case",
+    "mode": "emissions"
+  },
+  "run_validation": false
+}

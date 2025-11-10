@@ -1,0 +1,11 @@
+numpy
+pandas
+scipy
+simpy
+pyomo
+matplotlib
+plotly
+dash
+tqdm
+pytest
+networkx
