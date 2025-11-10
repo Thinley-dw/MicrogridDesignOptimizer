@@ -1,0 +1,12 @@
+{
+  "baseline": {
+    "discount_rate": 0.07,
+    "inflation_rate": 0.02,
+    "co2_price_per_tonne": 50
+  },
+  "aggressive": {
+    "discount_rate": 0.05,
+    "inflation_rate": 0.025,
+    "co2_price_per_tonne": 80
+  }
+}

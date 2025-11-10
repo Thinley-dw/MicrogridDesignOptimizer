@@ -1,0 +1,20 @@
+{
+  "pv": {
+    "capacity_kw": 1000,
+    "capex_per_kw": 800,
+    "om_per_kw": 15,
+    "availability": 0.98
+  },
+  "bess": {
+    "capacity_kwh": 4000,
+    "capex_per_kwh": 400,
+    "om_per_kw": 10,
+    "availability": 0.97
+  },
+  "chp": {
+    "capacity_kw": 5000,
+    "capex_per_kw": 1200,
+    "om_per_kw": 20,
+    "availability": 0.95
+  }
+}
