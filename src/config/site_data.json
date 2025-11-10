@@ -1,0 +1,9 @@
+{
+  "location": "Example Site",
+  "firm_power_mw": 47.5,
+  "availability_target": 0.99999,
+  "load_profile": [
+    40, 42, 41, 39, 38, 40, 43, 45, 46, 47, 48, 49,
+    50, 52, 53, 51, 49, 47, 45, 44, 43, 42, 41, 40
+  ]
+}
