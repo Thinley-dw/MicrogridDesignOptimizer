@@ -16,10 +16,6 @@ pip install -r requirements.txt
 python src/gui_dash/app.py
 ```
 
-To run the console-only optimisation workflow, execute `python src/main.py`. If
-you prefer launching the Dash GUI through the CLI entry point instead of the
-module above, use `python src/main.py --gui`.
-
 ## Folder Structure
 ```
 microgrid-design-optimizer/
