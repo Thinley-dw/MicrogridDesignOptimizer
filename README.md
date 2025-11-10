@@ -18,6 +18,7 @@ python src/main.py
 
 # Launch the Dash GUI (single entry point for interactive use)
 python src/main.py --gui
+python src/gui_dash/app.py
 ```
 
 ## Folder Structure
