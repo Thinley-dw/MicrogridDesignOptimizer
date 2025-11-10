@@ -63,5 +63,4 @@ microgrid-design-optimizer/
     └── validation_experiments.ipynb
 ```
 
-## License
-MIT
+
